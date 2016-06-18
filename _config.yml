@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 0.6415771
+  lightness: 0.8243728
+  brandStrength: 0.5035842
+  rhythmicContrast: 0.9298974
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: creativejam
